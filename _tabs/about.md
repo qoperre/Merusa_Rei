@@ -1,8 +1,26 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: 소개
+icon: fas fa-user
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+안녕하세요! 저는 **Merusa Rei**,  
+수학과 프로그래밍을 좋아하고, 수식으로 생각을 표현하는 걸 즐깁니다.
+
+이 블로그는 제 학습 기록과 실험 노트, 수학 공식 정리 등을 담고 있어요.
+
+> "수학은 언어다."  
+> 기록은 사고를 정제하는 가장 좋은 방법이니까요.
+
+---
+
+💻 관심 분야:
+- 미분방정식, 제어공학
+- 그래프 이론
+- Git & 버전 관리
+- LaTeX & Jekyll 블로그
+
+🛠 개발 중:
+- 수식 중심 블로그 자동화 도구
+- 중간고사... 😅
+
