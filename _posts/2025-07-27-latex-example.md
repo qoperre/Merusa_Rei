@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 적분 공식 정리
 date: 2025-07-27 10:00:00 +0900
 categories: [수학]
